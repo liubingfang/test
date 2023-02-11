@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_aniyajs_components=self.webpackChunk_aniyajs_components||[]).push([[9],{12535:function(i,n,e){e.r(n),e.d(n,{default:function(){return m}});var a=e(29),t=e(67294),s=function(){var r=(0,a.UO)(),u=r.id,d=(0,a.WF)(),c=d.demos,f=c[u]||{},o=f.component;return o&&(0,t.createElement)(o)},m=s}}]);
